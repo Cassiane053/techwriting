@@ -14,3 +14,5 @@ Nestes diversos ambientes, percebi um ponto em comum: dificuldade de comunicaç�
 
 Um dos maiores desafios de um TW é traduzir informações técnicas em uma linguagem simples e fácil de entender para diversos públicos.
 Esse trabalho envolve pesquisa, planejamento, colaboração com diversas áreas, revisão e análise de documentos, entre outros.
+
+> Para visualizar as documentações realizadas, basta acessar a opção "Wiki" no menu superior.
